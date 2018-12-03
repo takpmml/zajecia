@@ -22,5 +22,3 @@ def rozmien(portmonetka, kwota):
             break
     # print(suma)
     return wynik, zostalo
-
-
