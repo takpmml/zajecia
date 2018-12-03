@@ -1,5 +1,5 @@
 
-from rozmienianie import rozmien
+from moduly.rozmienianie import rozmien
 
 
 for i in range(10):
