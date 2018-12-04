@@ -5,4 +5,4 @@ class Osoba:
         self.nazwisko = nazwisko
 
 
-o = Osoba("Jan Kowalski")
+o = Osoba("Jan",  "Kowalski")
