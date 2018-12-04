@@ -10,3 +10,5 @@ for i in range(20):
     wynik, suma = rozmien([0, 2, 3, 6, 2, 2], i)
     print(i, wynik, suma)
 
+
+
